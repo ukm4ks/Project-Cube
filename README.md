@@ -2,29 +2,63 @@
 
 Welcome to the official repository of **Project "Cube"**! This repository contains curated lists of mods for Minecraft servers using both **Fabric**.
 
-## 📦 Mods Overview
+## 🧩 Mods Overview
 
 ### ⚡ **Current Fabric Mods**
 
 Here is a list of mods that are currently available for Fabric:
 
-1. **Cloth Config** – Provides a simple and powerful configuration library for mods to manage their settings.  
-2. **Default Skill Trees** – Adds default skill trees to the game, enhancing player progression and customization.  
-3. **Emotecraft** – Adds emotes to the game, allowing players to express themselves with fun animations.  
-4. **Fabric API** – The core library required for most Fabric mods, ensuring compatibility and functionality.  
-5. **Library Ferret** – A library mod required for running some other mods, ensuring compatibility and functionality.  
-6. **Mob Origins** – Introduces new origins with unique powers and gameplay styles focused on mobs.  
-7. **Origins** – Adds a selection of origin abilities that grant players unique powers and playstyles.  
-8. **Philip's Ruins** – Expands the world generation with intricate ruins for players to explore.  
-9. **Plasmo Voice** – Adds proximity-based voice chat for multiplayer servers.  
-10. **Player Animation Library** – Provides animations for player actions, enhancing visual immersion.  
-11. **Puffish Attributes** – Enhances player attributes and stats for a more dynamic gameplay experience.  
-12. **Puffish Skills** – Introduces a skill system to enhance your character's abilities and progression.  
-13. **Spell Engine** – Adds a robust magic system, including spells and wands, to the game.  
-14. **Spell Power** – Enhances the Spell Engine mod by adding more spell options and mechanics.  
-15. **Takes a Pillage** – Introduces new pillager-related mechanics, structures, and items to the game.
-16. **Female Gender Mod** – Adds the ability to select a female character model, enhancing customization and immersion in the game.
-17. **Hammer Mod (Coded by pat1fai and ukm4ks)** – Adds new hammers that mine a 3x3 area, making resource gathering and building faster and more efficient.
+## 🔧 Libraries & Core
+
+- **Fabric API** – Core library for Fabric mods.
+- **Cloth Config** – Configuration screen API for mods.
+- **Library Ferret** – Required library for multiple mods.
+- **RebornCore** – Core for Tech Reborn and related mods.
+- **GeckoLib** – Animation library for entities and items.
+- **Player Animation Library** – Advanced animation system for players.
+- **Porting Lib** – Compatibility layer for mods originally made for Forge.
+
+## ⚙️ Optimization & Visuals
+
+- **Sodium** – FPS optimization and performance boost.
+- **Iris Shaders** – Shader support for Fabric (compatible with Sodium).
+
+## 🎮 Gameplay Features
+
+- **Better Villages** – Improves village generation and structures.
+- **Farmer’s Delight (Refabricated)** – Adds new crops, meals, and farming tools.
+- **Philip's Ruins** – Adds detailed ruin structures to world generation.
+- **Takes a Pillage** – Expands Pillager content with structures and loot.
+- **Happy Ghast Legacy** – Enhances Ghast behaviors and visuals.
+- **Tead** – Lightweight utility mod (used internally by other mods).
+
+## 🧙 Magic & Skills
+
+- **Default Skill Trees** – Adds skill trees for character progression.
+- **Puffish Attributes** – Custom attribute system for RPG-style gameplay.
+- **Puffish Skills** – Adds RPG skill progression.
+- **Spell Engine** – Adds magic casting, mana, and wands.
+- **Spell Power** – Expands Spell Engine with new abilities and mechanics.
+
+## ⚔️ Combat & Gear
+
+- **Simply Swords** – Adds new melee weapons with effects.
+- **Armor of the Ages** – Adds custom armor sets with special powers.
+- **Hammer Mod (Alpha)** – Introduces 3x3 mining hammers for efficient digging.
+
+## 🗣 Voice & Expression
+
+- **Plasmo Voice** – Proximity-based voice chat support.
+- **Emotecraft** – Adds player emotes with animations.
+
+## 🧍 Character & Aesthetic
+
+- **Female Gender Mod** – Adds a female player model for character customization.
+- **Items Displayed** – Display items in-world for decoration and storage.
+
+## ⚡ Tech Mods
+
+- **Tech Reborn** – Adds machines, energy systems, and industrial tech progression.
 
 > **Note:** Be sure to always check for updates and compatibility with the latest build versions!
 > The release build also contains **Sodium** and **Iris Shaders** you can remove them if you don't need them.
