@@ -17,6 +17,7 @@ Here is a list of mods that are currently available for Fabric:
 - **GeckoLib** – Animation library for entities and items.
 - **Player Animation Library** – Advanced animation system for players.
 - **Porting Lib** – Compatibility layer for mods originally made for Forge.
+- **64 Stackable Signed Books** – Allows written books to stack up to 64 instead of 16.
 
 ## ⚙️ Optimization & Visuals
 
@@ -30,7 +31,6 @@ Here is a list of mods that are currently available for Fabric:
 - **Philip's Ruins** – Adds detailed ruin structures to world generation.
 - **Takes a Pillage** – Expands Pillager content with structures and loot.
 - **Happy Ghast Legacy** – Enhances Ghast behaviors and visuals.
-- **Tead** – Lightweight utility mod (used internally by other mods).
 
 ## 🧙 Magic & Skills
 
